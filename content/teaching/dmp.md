@@ -34,5 +34,5 @@ I originally created it for teaching ECON 331, Intermediate Macroeconomics, at C
 ##### Direct link to Shiny applications
 
 0. [Repository](https://github.com/estruby/shiny_dmp)
-1. [Exploring the data](https://shinyapps.carleton.edu/estruby/dmp/)
+1. [Plotting the long-run equilibrium](https://shinyapps.carleton.edu/estruby/dmp/)
 
