@@ -9,7 +9,7 @@ description: "Materials and Shiny applications for the Solow model"
 summary: "Materials and Shiny applications for the Solow model"
 cover:
     image: "beveridge.png"
-    alt: "GDP per worker across countries"
+    alt: "the Beveridge curve for the United States"
     relative: true
 disableAnchoredHeadings: false
 showToc: false
@@ -28,7 +28,7 @@ I originally created it for teaching ECON 331, Intermediate Macroeconomics, at C
 
 ## Text
 
-1. [PDF version](../static/DMP_notes.pdf).  
+1. [PDF version](../static/DMP_notes.pdf)  
 
 
 ##### Direct link to Shiny applications
