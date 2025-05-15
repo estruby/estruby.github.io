@@ -1,7 +1,7 @@
 ---
 title: "Finance-style event studies for undergraduates" 
 date: 2025-05-15
-url: /course/dmp
+url: /teaching/event_studies
 aliases:
     - /old_url.html
 author: ["Ethan Struby"]
