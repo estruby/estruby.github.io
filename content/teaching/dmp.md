@@ -5,8 +5,8 @@ url: /course/
 aliases:
     - /old_url.html
 author: ["Ethan Struby"]
-description: "Materials and Shiny applications for the Solow model" 
-summary: "Materials and Shiny applications for the Solow model"
+description: "Materials and Shiny applications for the DMP model" 
+summary: "Materials and Shiny applications for the DMP model"
 cover:
     image: "beveridge.png"
     alt: "the Beveridge curve for the United States"
@@ -18,7 +18,7 @@ showToc: false
 
 ## Introduction
 
-This is a set of notes and accompanying Shiny application for teaching a simple, two-sided labor search and matching model. 
+This is a set of notes and accompanying Shiny application for teaching a simple, two-sided labor search and matching model a-la Diamond, Mortensen, and Pissarides (DMP).
 
 I originally created it for teaching ECON 331, Intermediate Macroeconomics, at Carleton College. It's based on the treatment in the first part of chapter 1 of Christopher Pissarides _Equilibrium Unemployment Theory_.
 
