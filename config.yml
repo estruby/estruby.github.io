@@ -68,7 +68,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Struby_CV_2025_05_14.pdf
         - name: Email
           url: mailto:ethan.struby@gmail.com
         - name: Google Scholar
