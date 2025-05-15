@@ -1,7 +1,7 @@
 ---
 title: "Two sided search and matching for Intermediate Macro" 
 date: 2025-05-15
-url: /course/dmp
+url: /teaching/dmp
 aliases:
     - /old_url.html
 author: ["Ethan Struby"]
