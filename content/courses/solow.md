@@ -1,83 +1,38 @@
 ---
-title: "Course Title (less than 70 characters)" 
-date: 2006-03-15
+title: "(Simplified) Solow for Macro Principles" 
+date: 2025-05-15
 url: /course/
 aliases:
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Course Author 1", "Course Author 2"]
-description: "Course description for search engines (less than 155 characters)" 
-summary: "Course summary for list page (less than 265 characters)
+author: ["Ethan Struby"]
+description: "Materials and Shiny applications for the Solow model" 
+summary: "Materials and Shiny applications for the Solow model"
 cover:
-    image: "course_figure.png"
-    alt: "Figure title (preferably 1280x720 pixels)"
+    image: "../static/gdp_per_worker.png"
+    alt: "GDP per worker across countries"
     relative: true
-editPost:
-    URL: "https://youtube.com/course_playlist"
-    Text: "YouTube playlist"
 disableAnchoredHeadings: false
-showToc: true
+showToc: false
 
 ---
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This page contains some resources I've created for teaching a simplified version of the neoclassical growth model in Principles of Macroeconomics at Carleton College. It does not require calculus (and, in fact, minimal algebra) and abstracts from exogenous population growth and technological progress, except in an appendix. Within the text, there are exercises for students to develop and explain intuition, and relate the predictions of the model to both the data and the literature on "fundamental" causes of growth.  The text is accompanied by a set of Shiny applications to calculate steady state and illustrate the dynamic path of the economy.
+
 
 ---
 
-## Part 1
+## Text
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+1. [Web version](https://people.carleton.edu/~estruby/solow/index.html)
+2. [PDF version](../static/Solow_notes_with_blanks.pdf).  Missing the applications, but with blanks for filling in the exercises in class.
 
-##### Lecture videos
 
-1. [Lecture 1](https://youtu.be/lecture_1)
-2. [Lecture 2](https://youtu.be/lecture_2)
-3. [Lecture 3](https://youtu.be/lecture_3)
+##### Direct link to Shiny applications
 
-##### Lecture notes
+0. [Repository](https://github.com/estruby/shiny_solow)
+1. [Exploring the data](https://shinyapps.carleton.edu/estruby/solow_scatterplots/) using the Penn World Tables
+2. [Comparing steady states](https://shinyapps.carleton.edu/estruby/solow_comparative/)
+3. [Dynamic path of the economy](https://shinyapps.carleton.edu/estruby/solow_paths/)
 
-1. [Lecture 1](lecture_1.pdf)
-2. [Lecture 2](lecture_2.pdf)
-3. [Lecture 3](lecture_3.pdf)
-
-##### Readings
-
-- [Paper 1](https://doi.org/paper_1) – Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-- [Paper 2](https://doi.org/paper_2) – Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Homework
-
-- [Quiz 1](quiz_1.pdf)
-- [Quiz 2](quiz_2.pdf)
-- [Problem set 1](ps_1.pdf)
-
----
-
-## Part 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-##### Lecture videos
-
-1. [Lecture 4](https://youtu.be/lecture_4)
-2. [Lecture 5](https://youtu.be/lecture_5)
-3. [Lecture 6](https://youtu.be/lecture_6)
-
-##### Lecture notes
-
-1. [Lecture 4](lecture_4.pdf)
-2. [Lecture 5](lecture_5.pdf)
-3. [Lecture 6](lecture_6.pdf)
-
-##### Readings
-
-- [Paper 3](https://doi.org/paper_3) – Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-- [Paper 4](https://doi.org/paper_4) – Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-##### Homework
-
-- [Quiz 3](quiz_3.pdf)
-- [Quiz 4](quiz_4.pdf)
-- [Problem set 2](ps_2.pdf)
