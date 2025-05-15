@@ -8,7 +8,7 @@ author: ["Ethan Struby"]
 description: "Materials and Shiny applications for the Solow model" 
 summary: "Materials and Shiny applications for the Solow model"
 cover:
-    image: "../static/gdp_per_worker.png"
+    image: "gdp_per_worker.png"
     alt: "GDP per worker across countries"
     relative: true
 disableAnchoredHeadings: false
