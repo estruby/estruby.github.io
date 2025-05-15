@@ -8,8 +8,8 @@ author: ["Ethan Struby"]
 description: "Materials and Shiny applications for the Solow model" 
 summary: "Materials and Shiny applications for the Solow model"
 cover:
-    image: "beveridge.png"
-    alt: "GDP per worker across countries"
+    image: "beveridge_curve.png"
+    alt: "The Beveridge curve"
     relative: true
 disableAnchoredHeadings: false
 showToc: false
