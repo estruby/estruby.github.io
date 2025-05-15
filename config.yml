@@ -25,7 +25,7 @@ menu:
 
 
 params:
-    description: "Ethan Struby's research papers, teaching materials, curriculum vitae, and contact information."
+    description: "Ethan Struby's research papers, teaching materials, curriculum vitae (CV), and contact information."
     author: Ethan Struby
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "May 2025"
