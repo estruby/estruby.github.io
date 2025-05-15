@@ -77,8 +77,8 @@ params:
           url: https://ethanstruby.substack.com
         - name: Bluesky
           url: https://bsky.app/profile/estruby.bsky.social
-		- name: LinkedIn
-	 	  url: https://www.linkedin.com/in/ethan-struby-a7056258/
+	- name: LinkedIn
+	  url: https://www.linkedin.com/in/ethan-struby-a7056258/
 
     assets:
         disableScrollBarStyle: true
