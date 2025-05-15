@@ -1,7 +1,7 @@
 ---
 title: "(Simplified) Solow for Macro Principles" 
 date: 2025-05-15
-url: /course/
+url: /course/solow
 aliases:
     - /old_url.html
 author: ["Ethan Struby"]
