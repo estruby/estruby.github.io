@@ -19,7 +19,7 @@ menu:
           url: teaching/
           weight: 3
         - name: CV
-          url: CV/
+          url: Struby_CV.pdf
           weight: 4 
           
 
@@ -61,9 +61,8 @@ params:
             - name: Teaching Material
               url: teaching/
             - name: CV
-              url: CV/
-            - name: Archive
-              url: archive/
+              url: Struby_CV.pdf
+
             
 
     socialIcons:
