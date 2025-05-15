@@ -66,12 +66,8 @@ params:
             
 
     socialIcons:
-        - name: CV
-          url: Struby_CV.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=w8FuScQAAAAJ&hl
-        - name: Substack
-          url: https://ethanstruby.substack.com
         - name: Bluesky
           url: https://bsky.app/profile/estruby.bsky.social
         - name: LinkedIn
