@@ -9,7 +9,7 @@ description: "Materials for teaching finance-style event studies"
 summary: "Materials for teaching finance-style event studies "
 cover:
     image: "AR_FF_weekly.png"
-    alt: "GDP per worker across countries"
+    alt: "Abnormal returns for a selection of stocks from 1953-54"
     relative: true
 disableAnchoredHeadings: false
 showToc: false
