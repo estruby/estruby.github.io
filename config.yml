@@ -54,7 +54,7 @@ params:
           subtitle: "I am an assistant professor of Economics at Carleton College in Northfield, Minnesota.  My research focuses on macroeconomic expectations and Treasury markets. I completed my graduate degree at Boston College in 2017; prior to that, I was a research assistant at the Federal Reserve Bank of Kansas City, and an undergraduate student at Grinnell College in Iowa."
           imageUrl: "estruby.png"
           imageWidth: 160
-          imageHeight: 198.1
+          imageHeight: 198
           buttons:
             - name: Papers
               url: papers/
@@ -77,7 +77,7 @@ params:
           url: https://ethanstruby.substack.com
         - name: Bluesky
           url: https://bsky.app/profile/estruby.bsky.social
-        - name: Bluesky
+        - name: LinkedIn
           url: https://www.linkedin.com/in/ethan-struby-a7056258/
 
 
