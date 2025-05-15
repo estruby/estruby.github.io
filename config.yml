@@ -68,8 +68,6 @@ params:
     socialIcons:
         - name: CV
           url: Struby_CV.pdf
-        - name: Email
-          url: mailto:ethan.struby@gmail.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=w8FuScQAAAAJ&hl
         - name: Substack
