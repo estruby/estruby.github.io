@@ -5,8 +5,8 @@ url: /teaching/dmp
 aliases:
     - /old_url.html
 author: ["Ethan Struby"]
-description: "Materials and Shiny applications for the Solow model" 
-summary: "Materials and Shiny applications for the Solow model"
+description: "Two sided search and matching for Intermediate Macro" 
+summary: "Two sided search and matching for Intermediate Macro"
 cover:
     image: "beveridge_curve.png"
     alt: "The Beveridge curve"
