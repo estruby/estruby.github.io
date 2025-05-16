@@ -1,13 +1,13 @@
 ---
 title: "Working paper: Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study" 
-date: 2024
+date: "2025-03-25"
 url: /papers/FS1
 aliases: 
     - /old_url.html
 tags: ["Inflation expectations","Surveys","Partisanship"]
 author: ["Christina E. Farhart", "Ethan Struby"]
 description: "The partisan divide in inflation expectations is driven by partisans with high political knowledge" 
-summary: "The 2000-2002 Treasury buyback program significantly increased yields of purchased bonds and bonds of similar time to maturity."
+summary: "Survey evidence that the partisan divide in inflation expectations is driven by partisans with high political knowledge."
 cover:
     image: "marginal_effects_comparison.png"
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
@@ -34,18 +34,18 @@ Using a unique, nationally representative survey from the 2022 midterm elections
 
 ##### Citation
 
-Michael F. Connolly, Ethan Struby. 2024. "Treasury buybacks, the Federal Reserve’s portfolio, and changes in local supply." *Journal of Banking and Finance* Volume 198 (Issue C). 10.1016/j.jbankfin.2024.107286
+Ethan Struby & Christina Farhart, 2024. "Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study," Working Papers 2024-01, Carleton College, Department of Economics.
 
 ```BibTeX
-@article{CS_buybacks,
-title = {Treasury buybacks, the Federal Reserve’s portfolio, and changes in local supply},
-author = {Connolly, Michael F. and Struby, Ethan},
-year = {2024},
-journal = {Journal of Banking & Finance},
-volume = {168},
-number = {C},
-pages = {S0378426624002000},
-doi = 10.1016/j.jbankfin.2024.107286
+@TechReport{FS_2024,
+  author={Ethan Struby and Christina Farhart},
+  title={{Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study}},
+  year=2024,
+  institution={Carleton College, Department of Economics},
+  month=Jan,
+  type={Working Papers},
+  number={2024-01}
+
 ```
 
 ---
