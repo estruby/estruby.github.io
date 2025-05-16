@@ -4,13 +4,13 @@ date: 2024
 url: /paper/Buybacks
 aliases: 
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
+tags: ["Treasury buybacks","SOMA portfolio","Preferred habitats"]
 author: ["Michael F. Connolly", "Ethan Struby"]
 description: "Causal estimates of the effects of the 2000-2002 Treasury buyback program" 
 summary: "The 2000-2002 Treasury buyback program significantly increased yields of purchased bonds and bonds of similar time to maturity."
 cover:
     image: "paper_figure.png"
-    alt: "Figure title (preferably 1280x720 pixels)"
+    alt: "Estimated effects of cumulative Treasury buybacks on yields"
     relative: true
 editPost:
     URL: "10.1016/j.jbankfin.2024.107286"
