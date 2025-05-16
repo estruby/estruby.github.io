@@ -9,7 +9,7 @@ author: ["Michael F. Connolly", "Ethan Struby"]
 description: "Causal estimates of the effects of the 2000-2002 Treasury buyback program" 
 summary: "The 2000-2002 Treasury buyback program significantly increased yields of purchased bonds and bonds of similar time to maturity."
 cover:
-    image: "buybacks_fig2.png"
+    image: "yield_change.png"
     alt: "Estimated effects of cumulative Treasury buybacks on yields"
     relative: true
 editPost:
@@ -17,7 +17,7 @@ editPost:
     Text: "Journal of Banking and Finance"
 
 ---
-
+![Estimated effects of cumulative Treasury buybacks on yields](yield_change.png "Estimated effects of cumulative Treasury buybacks on yields")
 ---
 
 ##### Download:
