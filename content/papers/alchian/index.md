@@ -1,5 +1,5 @@
 ---
-title: "Explosive returns: teaching event studies using hydrogen bomb development" 
+title: "Working paper: Explosive returns: teaching event studies using hydrogen bomb development" 
 date: "2024-09-03"
 url: /papers/alchian
 aliases: 
