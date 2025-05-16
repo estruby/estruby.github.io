@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Ethan Struby
-          subtitle: "I am an assistant professor of Economics at Carleton College in Northfield, Minnesota.  My research focuses on macroeconomic expectations and Treasury markets. I completed my graduate degree at Boston College in 2017; prior to that, I was a research assistant at the Federal Reserve Bank of Kansas City, and an undergraduate student at Grinnell College in Iowa."
+          subtitle: "I am an assistant professor of Economics at Carleton College in Northfield, Minnesota, and have affiliations with the Boston College Department of Economics and Minnesota Supercomputing Institute.  My research focuses on macroeconomic expectations and Treasury markets."
           imageUrl: "estruby.png"
           imageWidth: 160
           imageHeight: 198
