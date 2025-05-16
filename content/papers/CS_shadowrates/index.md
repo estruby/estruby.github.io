@@ -55,7 +55,7 @@ author = {Connolly, Michael F. and Struby, Ethan},
 year = {2024},
 institution={Carleton College, Department of Economics},
 type={Working Papers}
-number={2022-03},
+number={2022-03}
 
 ```
 
