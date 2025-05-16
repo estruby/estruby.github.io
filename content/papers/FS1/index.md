@@ -1,6 +1,5 @@
 ---
-title: "“Inflation Expectations and Political Polarization: Evidence from the Cooperative
-Election Study” (with Christina E. Farhart)" 
+title: "Working paper: Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study" 
 date: 2024
 url: /papers/FS1
 aliases: 
