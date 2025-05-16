@@ -1,7 +1,7 @@
 ---
 title: "Treasury buybacks, the Federal Reserve’s portfolio, and changes in local supply" 
 date: 2024
-url: /paper/Buybacks
+url: /papers/Buybacks
 aliases: 
     - /old_url.html
 tags: ["Treasury buybacks","SOMA portfolio","Preferred habitats"]
