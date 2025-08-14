@@ -1,5 +1,5 @@
 ---
-title: "Working paper: Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study" 
+title: "Working paper: Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study"
 date: "2025-03-25"
 url: /papers/FS1
 aliases: 
