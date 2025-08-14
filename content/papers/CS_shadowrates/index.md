@@ -13,7 +13,7 @@ cover:
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
     relative: true
 editPost:
-    Text: "Resubmitted"
+    Text: "Revision requested"
 
 ---
 
