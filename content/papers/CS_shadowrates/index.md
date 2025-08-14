@@ -1,7 +1,7 @@
 ---
 title: "Working paper: Shadow Rate Models and Monetary Policy" 
 date: "2024-12-04"
-url: /papers/FS1
+url: /papers/CS_shadowrates
 aliases: 
     - /old_url.html
 tags: ["Shadow rate","term structure models","term premia", "forward guidance", "nonlinear estimation"]
