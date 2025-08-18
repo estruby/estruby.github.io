@@ -6,8 +6,8 @@ aliases:
     - /old_url.html
 tags: ["Inflation expectations","Surveys","Partisanship","Quantitative Knowledge","Numeracy"]
 author: ["Christina E. Farhart", "Ethan Struby"]
-description: "More politically and quantitatively sophisticated partisans disagree more about inflation; more economically knowledgable partisans disagree less." 
-summary: "More politically and quantitatively sophisticated partisans disagree more about inflation; more economically knowledgable partisans disagree less."
+description: "More politically and quantitatively sophisticated partisans disagree more about inflation; more economically knowledgeable partisans disagree less." 
+summary: "More politically and quantitatively sophisticated partisans disagree more about inflation; more economically knowledgeable partisans disagree less."
 cover:
     image: "slide_marginal_effects_3_3.png"
     alt: "Estimated difference in inflation forecasts conditional on political, economic, and quantitative knowledge"
