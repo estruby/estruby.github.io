@@ -1,6 +1,6 @@
 ---
 title: "Working paper: Knowledgeable Partisans and Inflation Expectations" 
-date: "2025-07-09"
+date: "2025-08-22"
 url: /papers/FS2
 aliases: 
     - /old_url.html
