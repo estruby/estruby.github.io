@@ -38,12 +38,15 @@ Ethan Struby & Christina Farhart, 2025. "Knowledgeable Partisans and Inflation E
 
 ```BibTeX
 @TechReport{FS_2025,
-  author={Ethan Struby and Christina Farhart},
-  title={{Knowledgeable Partisans and Inflation Expectations}},
-  year=2025,
-  institution={Carleton College, Department of Economics},
-  month=July,
-  type={Working Papers}
+type={Working Papers},
+institution={Carleton College, Department of Economics},
+author={Ethan Struby and Christina Farhart},
+title={Knowledgeable Partisans and Inflation Expectations},
+year={2025},
+month={Jan},
+number={2025-02}
+}
+
 ```
 
 ---
