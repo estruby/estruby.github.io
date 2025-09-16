@@ -38,7 +38,7 @@ Ethan Struby & Christina Farhart, 2024. "Inflation Expectations and Political Po
 
 ```BibTeX
 @TechReport{FS_2024,
-  author={Ethan Struby and Christina Farhart},
+  author={Christina Farhart and Ethan Struby},
   title={{Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study}},
   year=2024,
   institution={Carleton College, Department of Economics},
