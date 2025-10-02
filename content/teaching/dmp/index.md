@@ -28,7 +28,7 @@ I originally created it for teaching ECON 331, Intermediate Macroeconomics, at C
 
 ## Text
 
-1. [PDF version](../static/DMP_notes.pdf).  
+1. [PDF version](DMP_notes.pdf).  
 
 
 ##### Direct link to Shiny applications

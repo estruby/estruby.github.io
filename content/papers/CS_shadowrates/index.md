@@ -19,7 +19,7 @@ editPost:
 
 ##### Download:
 
-- [Working paper version](../../static/shadow_rate_jfec_revision.pdf)
+- [Working paper version](static/shadow_rate_jfec_revision.pdf)
 
 ---
 

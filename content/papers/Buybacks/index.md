@@ -21,7 +21,7 @@ editPost:
 
 ##### Download:
 
--   [Working paper version](../../static/trasury_buybacks_final_ref.pdf)
+-   [Working paper version](treasury_buybacks_final_ref.pdf)
 
 ------------------------------------------------------------------------
 

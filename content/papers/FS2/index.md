@@ -19,7 +19,7 @@ editPost:
 
 ##### Download:
 
-- [Working paper version](../../static/FS2_knowledgable_partisans.pdf)
+- [Working paper version](FS2_knowledgable_partisans.pdf)
 
 ---
 

@@ -19,7 +19,7 @@ editPost:
 
 ##### Download:
 
-- [Working paper version](../../static/explosive_returns_sept32024.pdf)
+- [Working paper version](explosive_returns_sept32024.pdf)
 
 ---
 

@@ -19,7 +19,7 @@ editPost:
 
 ##### Download:
 
-- [Working paper version](../../static/farhart_struby_CES.pdf)
+- [Working paper version](farhart_struby_CES.pdf)
 
 ---
 

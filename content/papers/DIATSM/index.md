@@ -18,7 +18,7 @@ editPost:
 
 
 
-- [Working paper version](../../static/struby_dispinfotermpremia_040920_sub.pdf)
+- [Working paper version](struby_dispinfotermpremia_040920_sub.pdf)
 
 ---
 
