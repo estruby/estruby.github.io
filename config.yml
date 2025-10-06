@@ -53,8 +53,8 @@ params:
           title: Ethan Struby
           subtitle: "I am an assistant professor of Economics at Carleton College in Northfield, Minnesota, and have affiliations with the Boston College Department of Economics and Minnesota Supercomputing Institute.  My research focuses on macroeconomic expectations and Treasury markets."
           imageUrl: "estruby.jpg"
-          imageWidth: 182.13
-          imageHeight: 273.067
+          imageWidth: 182
+          imageHeight: 273
           buttons:
             - name: Papers
               url: papers/
