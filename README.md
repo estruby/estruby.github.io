@@ -8,4 +8,4 @@ The template is documented at https://pascalmichaillat.org/b/.
 
 ## If you're reading this
 
-Then I broke something when updating the web site. Please let me know and I'll fix it!
+Then I broke something when updating the web site, or it's in the process of deploying. Please let me know!
