@@ -55,6 +55,7 @@ params:
           imageUrl: "estruby.jpg"
           imageWidth: 182
           imageHeight: 273
+          imageTitle: "Ethan Struby"
           buttons:
             - name: Papers
               url: papers/
