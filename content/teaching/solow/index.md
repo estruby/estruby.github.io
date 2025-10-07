@@ -25,7 +25,7 @@ This page contains some resources I've created for teaching a simplified version
 
 ## Text
 
-1. [Web version](https://people.carleton.edu/~estruby/solow/index.html)
+1. [Web version](https://struby.people.sites.carleton.edu/solow/)
 2. [PDF version](Solow_notes_with_blanks.pdf).  Missing the applications, but with blanks for filling in the exercises in class.
 
 
