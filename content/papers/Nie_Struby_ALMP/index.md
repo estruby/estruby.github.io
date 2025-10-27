@@ -10,9 +10,7 @@ description: "Job Search Assistance and employment incentives are potentially co
 summary: "Using OECD data from 1998-2008, we estimate the effects of disaggregated types of labor market policies on unemployment. We find that training programs and job-search assistance reduce unemployment significantly.  Using simple calculations based on Okun's Law and assumptions about the productivity of newly employed workers, we show that these programs are also cost-effective: by reducing unemployment, they generate more GDP than they would cost the government to implement."
 cover:
     image: "chart3.png"
-    alt: "average annual labor market policy spending as a percentage of GDP between 1998
-and 2008, divided into active and passive policy spending, for the 20 OECD countries studied in this article plus
-the United States."
+    alt: "average annual labor market policy spending as a percentage of GDP between 1998 and 2008, divided into active and passive policy spending, for 20 OECD countries plus the United States."
     relative: true
 editPost:
     URL:  "https://www.kansascityfed.org/Economic%20Review/documents/1103/2011-Would%20Active%20Labor%20Market%20Policies%20Help%20Combat%20High%20U.S.%20Unemployment%3F.pdf"
