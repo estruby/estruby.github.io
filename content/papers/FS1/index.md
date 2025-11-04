@@ -1,5 +1,5 @@
 ---
-title: "Working paper: Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study"
+title: "Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study"
 date: "2025-08-25"
 url: /papers/FS1
 aliases: 
@@ -13,7 +13,7 @@ cover:
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
     relative: true
 editPost:
-    Text: "Resubmitted"
+    Text: "Forthcoming, Journal of Macroeconomics"
 
 ---
 

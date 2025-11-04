@@ -5,3 +5,9 @@ resources/
 # R and mac ephemera
 .DS_Store
 .Rhistory
+content/.DS_Store
+content/papers/.DS_Store
+content/teaching/.DS_Store
+layouts/.DS_Store
+static/.DS_Store
+.DS_Store
