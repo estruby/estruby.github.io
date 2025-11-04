@@ -13,7 +13,7 @@ cover:
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
     relative: true
 editPost:
-    Text: "Forthcoming, Journal of Macroeconomics"
+    Text: "Forthcoming in Journal of Macroeconomics"
 
 ---
 
