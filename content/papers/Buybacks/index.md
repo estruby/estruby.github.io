@@ -21,13 +21,15 @@ editPost:
 
 ##### Download:
 
--   [Working paper version](treasury_buybacks_final_ref.pdf)
+-   [Working paper version](treasury_buybacks_final_rev.pdf)
 
 ------------------------------------------------------------------------
 
 ##### Abstract:
 
-We document spillover effects of the 2000-2002 Treasury Buyback program on Treasury returns and the composition of the Federal Reserve’s System Open Market Account (SOMA) portfolio. The reduction in bond supply due to the buybacks contributed an average of 95 basis points to the yields of bonds bought back and bonds of similar maturity over the course of the program. Each \$10 billion of purchases corresponded with an average yield increase of 7.8 basis points. At a higher frequency, prices of purchased and near substitute bonds increased on settlement dates. Changes to the SOMA portfolio were smaller for securities exposed to the buybacks and tended to occur outside of auction weeks, consistent with the Federal Reserve attempting to avoid exacerbating Treasury supply shortages. We relate our findings to the theoretical literature on asset supply in preferred habitats models of the term structure. Our results suggest that the proposed reintroduction of the Treasury buyback program will have limited effects due to its size and proposed composition. ---
+We document spillover effects of the 2000-2002 Treasury Buyback program on Treasury returns and the composition of the Federal Reserve’s System Open Market Account (SOMA) portfolio. The reduction in bond supply due to the buybacks contributed an average of 95 basis points to the yields of bonds bought back and bonds of similar maturity over the course of the program. Each \$10 billion of purchases corresponded with an average yield increase of 7.8 basis points. At a higher frequency, prices of purchased and near substitute bonds increased on settlement dates. Changes to the SOMA portfolio were smaller for securities exposed to the buybacks and tended to occur outside of auction weeks, consistent with the Federal Reserve attempting to avoid exacerbating Treasury supply shortages. We relate our findings to the theoretical literature on asset supply in preferred habitats models of the term structure. Our results suggest that the proposed reintroduction of the Treasury buyback program will have limited effects due to its size and proposed composition. 
+
+---
 
 ##### Citation
 
