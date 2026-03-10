@@ -56,7 +56,7 @@ title = {Shadow Rate Models and Monetary Policy},
 author = {Connolly, Michael F. and Struby, Ethan},
 year = {2026},
 institution={Carleton College, Department of Economics},
-type={Working Papers}
+type={Working Papers},
 number={2022-03}
 
 ```
