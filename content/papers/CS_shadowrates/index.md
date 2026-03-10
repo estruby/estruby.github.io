@@ -1,6 +1,6 @@
 ---
 title: "Working paper: Shadow Rate Models and Monetary Policy" 
-date: "2024-12-04"
+date: "2026-02-10"
 url: /papers/CS_shadowrates
 aliases: 
     - /old_url.html
@@ -9,11 +9,11 @@ author: ["Michael F. Connolly", "Ethan Struby"]
 description: "Estimated shadow rate models disagree on the duration of the ZLB, but agree on the effects of policy changes on yields" 
 summary: "Estimated shadow rate models using forecasts and alternative assumptions about expectations formation disagree on the duration of the ZLB, but agree on the effects of policy changes on yields."
 cover:
-    image: "implied_duration.png"
+    image: "implied_liftoff_3fac.png"
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
     relative: true
 editPost:
-    Text: "Revision requested"
+    Text: "Resubmitted"
 
 ---
 
