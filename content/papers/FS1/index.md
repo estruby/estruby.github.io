@@ -13,7 +13,7 @@ cover:
     alt: "Estimated difference in inflation forecasts conditional on political knowledge"
     relative: true
 editPost:
-    Text: "Forthcoming in Journal of Macroeconomics"
+    Text: "Journal of Macroeconomics"
 
 ---
 
@@ -37,15 +37,16 @@ Using a unique, nationally representative survey from the 2022 midterm elections
 Ethan Struby & Christina Farhart, 2024. "Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study," Working Papers 2024-01, Carleton College, Department of Economics.
 
 ```BibTeX
-@TechReport{FS_2024,
-  author={Christina Farhart and Ethan Struby},
-  title={{Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study}},
-  year=2024,
-  institution={Carleton College, Department of Economics},
-  month=Jan,
-  type={Working Papers},
-  number={2024-01}
-
+@Article{FS_2026
+journal={Journal of Macroeconomics},
+author={Farhart, Christina E. and Struby, Ethan},
+title={Inflation expectations and political polarization: Evidence from the cooperative election study},
+year={2026},
+volume={87},
+number={C},
+abstract={Using a unique, nationally representative survey from the 2022 midterm elections, we investigate the partisan divide in beliefs about inflation. Party identity is predictive of inflation forecasts, as well as stated beliefs about recent inflation and the Federal Reserveâ€™s long-run inflation target. After conditioning on those two variables, the partisan gap in forecasts is about half of the unconditional average difference between Democrats and Republicans. We find that the difference in reported forecasts conditional on nowcasts and long-run beliefs is driven by respondents who have high levels of knowledge about politics and lower levels of (generalized) trust in others. Our findings are consistent with the literature in political psychology that examines the endorsement of conspiracy theories and political misinformation, and imply a sizable portion of the partisan divide in inflation forecasts is attributable to strategic responses to forecast surveys.},
+keywords={Inflation expectations; Partisanship; Signal extraction; Survey expectations},
+doi={10.1016/j.jmacro.2025.103726}
 ```
 
 ---
