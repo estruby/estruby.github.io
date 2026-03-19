@@ -33,8 +33,7 @@ Using a unique, nationally representative survey from the 2022 midterm elections
 
 
 ##### Citation
-
-Ethan Struby & Christina Farhart, 2024. "Inflation Expectations and Political Polarization: Evidence from the Cooperative Election Study," Working Papers 2024-01, Carleton College, Department of Economics.
+Christina E. Farhart, Ethan Struby, "Inflation expectations and political polarization: Evidence from the cooperative election study", Journal of Macroeconomics, Volume 87, 2026, https://doi.org/10.1016/j.jmacro.2025.103726.
 
 ```BibTeX
 @Article{FS_2026,
