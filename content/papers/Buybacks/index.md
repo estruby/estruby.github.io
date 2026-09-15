@@ -13,7 +13,7 @@ cover:
     alt: "Estimated effects of cumulative Treasury buybacks on yields"
     relative: true
 editPost:
-    URL: "10.1016/j.jbankfin.2024.107286"
+    URL: "https://doi.org/10.1016/j.jbankfin.2024.107286"
     Text: "Journal of Banking and Finance"
 ---
 
